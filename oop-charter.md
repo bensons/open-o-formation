@@ -1,11 +1,7 @@
-<style type="text/css">
+<div style="
     .ol { list-style-type: lower-alpha; }
     .ol ol { list-style-type: lower-roman; }
-	.markdown-body ol { list-style-type: lower-alpha; }
-	.markdown-body ol ol { list-style-type: lower-alpha; }
-	.markdown-body ul ol { list-style-type: lower-alpha; }
-</style>
-
+" />
 
 __**Exhibit B**__
  
