@@ -1,3 +1,7 @@
+<style type="text/css">
+    ol { list-style-type: lower-alpha; }
+    ol ol { list-style-type: lower-roman; }
+</style>
 
 __**Exhibit B**__
  
@@ -9,29 +13,29 @@ Effective 22 January 2016  .
 
 The mission of OOP is to:
  
-a.     create an enterprise grade, open source MANO and SDN orchestration framework and code base, upon which end user service providers can build and run robust, industry-specific applications, platforms and hardware systems to support cloud, NFV and SDN environments.
+- create an enterprise grade, open source MANO and SDN orchestration framework and code base, upon which end user service providers can build and run robust, industry-specific applications, platforms and hardware systems to support cloud, NFV and SDN environments.
 
-b.     create an open source, technical community to benefit the ecosystem of OOP solution providers and users, focused on network orchestration use cases that will work across a variety of industry solutions;
+- create an open source, technical community to benefit the ecosystem of OOP solution providers and users, focused on network orchestration use cases that will work across a variety of industry solutions;
 
-c.     promote participation of leading members of the ecosystem, including developers, service and solution providers and end users; and
+- promote participation of leading members of the ecosystem, including developers, service and solution providers and end users; and
 
-d.     host the infrastructure for OOP, establishing a neutral home for community infrastructure, meetings, events and collaborative discussions and providing structure around the business and technical governance of OOP.
+- host the infrastructure for OOP, establishing a neutral home for community infrastructure, meetings, events and collaborative discussions and providing structure around the business and technical governance of OOP.
 
 # 2. Membership.
 
-a.     OOP shall be composed of Premier, General and Associate Members. All Premier and General Members must be current corporate members of The Linux Foundation (at any level) to participate in OOP as a member. Anyone may propose a contribution to OOP’s technical codebase regardless of membership status. All participants in OOP, including Associate Members, enjoy the privileges and undertake the obligations described in this [Open-O] Project Charter, as from time to time amended by the Governing Board with the approval of The Linux Foundation (“LF”). During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the OOP may from time to time adopt with notice to members.
+- OOP shall be composed of Premier, General and Associate Members. All Premier and General Members must be current corporate members of The Linux Foundation (at any level) to participate in OOP as a member. Anyone may propose a contribution to OOP’s technical codebase regardless of membership status. All participants in OOP, including Associate Members, enjoy the privileges and undertake the obligations described in this [Open-O] Project Charter, as from time to time amended by the Governing Board with the approval of The Linux Foundation (“LF”). During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the OOP may from time to time adopt with notice to members.
 
-b.     The Associate Member category of membership is limited to non-profits and open source projects, and requires approval by the Governing Board of OOP (“Governing Board”), or, if the Governing Board sets criteria for joining as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in OOP does not confer any benefits or rights to the members of the Associate Member.
+- The Associate Member category of membership is limited to non-profits and open source projects, and requires approval by the Governing Board of OOP (“Governing Board”), or, if the Governing Board sets criteria for joining as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in OOP does not confer any benefits or rights to the members of the Associate Member.
 
-c.     Premier Members shall be entitled to appoint a representative to the Governing Board in the event that there are fewer than sixteen (16) Governing Board representatives appointed by the Premier Members in total. In the event that there are sixteen (16) Governing Board representatives appointed by the Premier Members in total, then the Premier Members shall be entitled to annually elect sixteen (16) representatives to the Governing Board. Premier Members shall be entitled to appoint a representative to the Marketing Committee and any other committees established by the Governing Board.
+- Premier Members shall be entitled to appoint a representative to the Governing Board in the event that there are fewer than sixteen (16) Governing Board representatives appointed by the Premier Members in total. In the event that there are sixteen (16) Governing Board representatives appointed by the Premier Members in total, then the Premier Members shall be entitled to annually elect sixteen (16) representatives to the Governing Board. Premier Members shall be entitled to appoint a representative to the Marketing Committee and any other committees established by the Governing Board.
 
-d.     General Members shall be entitled to annually elect one representative to the Governing Board for every ten (10) General Members, up to a maximum of four (4) representatives, provided that there shall always be at least one (1) General Member representative, if there are one (1) or more General Members, even if there are less than ten (10) General Members. The election process shall be determined by the Governing Board.
+- General Members shall be entitled to annually elect one representative to the Governing Board for every ten (10) General Members, up to a maximum of four (4) representatives, provided that there shall always be at least one (1) General Member representative, if there are one (1) or more General Members, even if there are less than ten (10) General Members. The election process shall be determined by the Governing Board.
 
-e.     Premier Members, General Members and Associate Members shall be entitled to:
+- Premier Members, General Members and Associate Members shall be entitled to:
 
-    i.     participate in Project general meetings, initiatives, events and any other activities; and
+    - participate in Project general meetings, initiatives, events and any other activities; and
 
-    ii.     identify themselves as members of, or participants in, OOP.
+    - identify themselves as members of, or participants in, OOP.
 
 # 3. Governing Board
 
