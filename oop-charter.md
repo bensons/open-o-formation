@@ -3,35 +3,40 @@
     ol ol { list-style-type: lower-roman; }
 </style>
 
-__**Exhibit B**__
+# Exhibit B
+
+# Open-Orchestrator Project Charter
+
+**The Linux Foundation**
+_Effective 17 February 2016_
+
+## 1. Mission of Open-Orchestrator Project.
+
+The mission of the Open-Orchestrator Project (“OOP”) is to:
  
-# [Open-O] Project Charter
-
-The Linux Foundation
-
-Effective 22 January 2016
-
-## 1. Mission of [Open-O] Project (“OOP”).
-
-The mission of OOP is to:
- 
-1. create an enterprise grade, open source MANO and SDN orchestration framework and code base, upon which end user service providers can build and run robust, industry-specific applications, platforms and hardware systems to support cloud, NFV and SDN environments.
+1. create a carrier grade MANO and SDN orchestration framework, implemented and released as open source software, supporting common data models and interoperability across multiple VIMs, upon which end user service providers can build and run robust network services including industry-specific applications in support of cloud, NFV, and SDN environments;
 
 2. create an open source, technical community to benefit the ecosystem of OOP solution providers and users, focused on network orchestration use cases that will work across a variety of industry solutions;
 
-3. promote participation of leading members of the ecosystem, including developers, service and solution providers and end users; and
+3. promote participation of leading members of the ecosystem, including developers, service and solution providers, and end users; and
 
-4. host the infrastructure for OOP, establishing a neutral home for community infrastructure, meetings, events and collaborative discussions and providing structure around the business and technical governance of OOP.
+4. host the infrastructure for OOP, establishing a neutral home for community infrastructure, meetings, events, and collaborative discussions and providing structure around the business and technical governance of OOP.
 
 ## 2. Membership.
 
-1. OOP shall be composed of Premier, General and Associate Members. All Premier and General Members must be current corporate members of The Linux Foundation (at any level) to participate in OOP as a member. Anyone may propose a contribution to OOP’s technical codebase regardless of membership status. All participants in OOP, including Associate Members, enjoy the privileges and undertake the obligations described in this [Open-O] Project Charter, as from time to time amended by the Governing Board with the approval of The Linux Foundation (“LF”). During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the OOP may from time to time adopt with notice to members.
+1. OOP shall be composed of Premier, General, and Associate Members. All Premier and General Members must be current corporate members of The Linux Foundation (at any level) to participate in OOP as a member. Anyone may propose a contribution to OOP’s technical codebase regardless of membership status. All participants in OOP, including Associate Members, enjoy the privileges and undertake the obligations described in this Open-Orchestrator Charter, as from time to time amended by the Governing Board with the approval of The Linux Foundation (“LF”). During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the OOP may from time to time adopt with notice to members.
 
 2. The Associate Member category of membership is limited to non-profits and open source projects, and requires approval by the Governing Board of OOP (“Governing Board”), or, if the Governing Board sets criteria for joining as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in OOP does not confer any benefits or rights to the members of the Associate Member.
 
-3. Premier Members shall be entitled to appoint a representative to the Governing Board in the event that there are fewer than sixteen (16) Governing Board representatives appointed by the Premier Members in total. In the event that there are sixteen (16) Governing Board representatives appointed by the Premier Members in total, then the Premier Members shall be entitled to annually elect sixteen (16) representatives to the Governing Board. Premier Members shall be entitled to appoint a representative to the Marketing Committee and any other committees established by the Governing Board.
+    > Benson: Note that there is no membership class for Individuals
 
-4. General Members shall be entitled to annually elect one representative to the Governing Board for every ten (10) General Members, up to a maximum of four (4) representatives, provided that there shall always be at least one (1) General Member representative, if there are one (1) or more General Members, even if there are less than ten (10) General Members. The election process shall be determined by the Governing Board.
+3. Premier Members shall be entitled to appoint a representative to the Governing Board in the event that there are sixteen (16) or fewer Premier Members. In the event that there are more than sixteen (16) Premier Members then the Premier Members shall be entitled to annually elect sixteen (16) representatives to the Governing Board. The election process shall be determined by the Governing Board. Premier Members shall be entitled to appoint a representative to the Marketing Committee and any other committees established by the Governing Board.
+
+    > Benson: Note that this caps the number of Premier Board members rather than the number of Premier members; this is significantly different from the earlier draft version of this charter.
+
+4. General Members shall be entitled to annually elect one representative to the Governing Board for every ten (10) General Members, up to a maximum of four (4) representatives, provided that there shall always be at least one (1) General Member representative if there are one (1) or more General Members, even if there are less than ten (10) General Members. The election process shall be determined by the Governing Board.
+
+    > Benson: Note that this provides for more Board members representing General members than the previous version
 
 5. Premier Members, General Members and Associate Members shall be entitled to:
 
@@ -43,51 +48,65 @@ The mission of OOP is to:
 
 1. Composition – the Governing Board voting members shall consist of:
 
-    1. Up to sixteen (16) representatives appointed or elected by Premier Members per section 2.c.;
+    1. up to sixteen (16) representatives appointed or elected by Premier Members per Section 2.c.;
 
-    2. Up to four (4) elected General Member representatives per Section 2.d.;
+    2. up to four (4) representatives elected by General Members per Section 2.d.;
 
-    3. one representative elected by the End User Technical Advisory Board, as defined in Section 6 below; and
+    3. one (1) representative elected by the End User Technical Advisory Board per Section 6; and
 
-    4. the Chair elected by the TSC, as defined in Section 4 below.
+    4. one (1) representative of the TSC, per Section 4;
+
+    5. except that no Member shall have more than one (1) vote on the Governing Board or any committee.
+
+        > Benson: Note that this last bullet makes it possible that multiple Board members must choose how to cast a single vote
 
 2. Conduct of Meetings
 
-    1. Governing Board meetings shall be limited to the Governing Board representatives and follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
+    1. Governing Board meetings shall be limited to the Governing Board representatives and follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow each representative to appoint a named representative to attend as an alternate.
 
-    2. The Governing Board meetings shall be confidential unless approved by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board). The Governing Board should encourage transparency, including the public publication of public minutes within a reasonable time following their approval by the Governing Board.
+    2. The Governing Board meetings shall be confidential unless approved by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board). The Governing Board should encourage transparency, including publication of public minutes within a reasonable time following their approval by the Governing Board.
 
 3. Responsibilities – the Governing Board shall be responsible for:
 
-    1. approving a budget directing the use of funds raised by OOP from all sources of revenue;
+    1. Setting and maintaining the scope, vision, and policy of the OOP;
 
-    2. electing a Chair of OOP to preside over Governing Board meetings, authorize expenditures approved by the budget and manage any day-to-day operations;
+    2. approving a budget and directing the use of funds raised by OOP from all sources of revenue;
 
-    3. overseeing all Project business and marketing matters;
+        > Benson: the extra language about allowable activities and tax-exempt operation is not necessary in the case of a LF directed project.
 
-    4. adopt and maintain policies or rules and procedures for OOP (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any compliance or certification policies;
+    3. electing a Chair of OOP to preside over Governing Board meetings, authorize expenditures approved by the budget, and manage any day-to-day operations;
 
-    5. working with the TSC on defining and administering any programs for certification, including any Project certification or processes for OOP;
+    4. overseeing all Project business, legal, and marketing matters, including the creation and oversight of subcommittees for any aspects of its business;
 
-    6. coordinating with the EU-TAB (as defined in Section 6 below) to enable End User adoption, inclusion in technical community conversations and overall participation in OOP;
+    5. adopt and maintain policies or rules and procedures for OOP (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy, and any compliance or certification policies;
 
-    7. approving procedures for the nomination and election of (1) General Member representatives to the Governing Board, and (2) any officer or other positions created by the Governing Board.
+    6. working with the TSC on defining and administering any programs for certification, including any Project certification or processes for OOP;
 
-    8. voting on all decisions or matters coming before the Governing Board.
+    7. coordinating with the EU-TAB (as defined in Section 6 below) to enable End User adoption, inclusion in technical community conversations, and overall participation in OOP;
+
+        > Benson: I think the charter should not require the board to define Vision and Scope based on EU-TAB direction; that effectively would transplant Board authority into the EU-TAB and make the Board a figurehead.
+
+    8. approving procedures for the nomination and election of representatives to the Governing Board from the General Members, and from the Premier Members if applicable;
+
+    9. approving procedures for the nomination and election of any officer or other positions created by the Governing Board; and
+
+    9. voting on all decisions or matters coming before the Governing Board.
 
 ## 4. Technical Steering Committee (“TSC”)
 
 1. Composition
 
-    1. Startup Period: During the first six (6) months after project launch, the TSC voting members shall consist of one (1) appointed representative from each Premier Member and each Top Level Project Maintainer, provided that no company (including related companies or affiliates under common control) shall have more than three (3) votes on the TSC.
+    1. Startup Period: During the first six (6) months after project launch, the TSC voting members shall consist of one (1) appointed representative from each Premier Member and each Top Level Project Maintainer, provided that no company (including related companies or affiliates under common control) shall have more than two (2) votes on the TSC.
 
-    2. Steady State: After the Startup Period, there shall be a nomination and election period for electing Contributors or Maintainers to the TSC. The TSC voting members shall consist of eleven (11) elected Contributors or Maintainers chosen by the Active Contributors. In the event that there are fewer than eleven (11) Active Contributors in total then the TSC shall consist of all Active Contributors. An Active Contributor is defined as any Contributor who has had a contribution accepted into the codebase during the prior twelve (12) months. The TSC shall approve the process and timing for nominations and elections held on an annual basis.
+        > Benson: This limits votes to 2 per member, but doesn't limit individuals holding seats; thus some members may in theory have to figure out how to cast their votes collectively.
+
+    2. Steady State: After the Startup Period and upon approval by the Governing Board, to be given if the community has reached adequate stability, maturity, and diversity, there shall be a nomination and election period for electing Contributors or Maintainers to the TSC. The TSC voting members shall consist of eleven (11) elected Contributors or Maintainers chosen by the Active Contributors. In the event that there are fewer than eleven (11) Active Contributors in total then the TSC shall consist of all Active Contributors. An Active Contributor is defined as any Contributor who has had a contribution accepted into the relreased codebase during the prior twelve (12) months. The TSC shall approve the process and timing for nominations and elections held on an annual basis.
  
 2. TSC projects generally will involve Maintainers and Contributors:
 
     1. Contributors: anyone in the technical community that contributes code, documentation or other technical artifacts to the OOP codebase.
 
-    2. Maintainers: Contributors who have the ability to commit code and contributions to a project’s main branch on an OOP project. A Contributor may become a Maintainer by a majority approval of the existing Maintainers.
+    2. Maintainers: Contributors who have the ability to commit code and contributions to a project’s main branch on an OOP project. A Contributor may become a Maintainer by a majority approval of the existing Maintainers, or by appointment of the TSC during project initiation.
 
 3. Participation in OOP through becoming a Contributor and/or Maintainer is open to anyone. The TSC may:
 
@@ -101,7 +120,7 @@ The mission of OOP is to:
 
 5. Responsibilities: The TSC is responsible for:
 
-    1. coordinating the technical direction of OOP;
+    1. coordinating the technical direction of OOP in conformance with the strategic scope set by the Governing Board;
 
     2. approving project proposals (including, but not limited to, incubation, deprecation and changes to a project’s charter or scope) in accordance with a project lifecycle document to be developed, approved and maintained by the TSC;
 
@@ -149,7 +168,7 @@ The mission of OOP is to:
 
 1. While it is the goal of OOP to operate as a consensus based community, if any decision requires a vote to move forward, the representatives of the Governing Board, TSC, Marketing Committee or EU-TAB, as applicable, shall vote on a one vote per voting representative basis.
 
-2. Quorum for Governing Board, TSC, Marketing Committee or EU-TAB meetings shall require the presence of at least two-thirds of the voting representatives and representation of the lesser of four (4) members or 50% of the total members represented on that body. The Governing Board, TSC, Marketing Committee or EU-TAB may continue to meet if quorum is not met, but shall be prevented from making any decisions at the meeting.
+2. Quorum for Governing Board, TSC, Marketing Committee or EU-TAB meetings shall require the presence of at least two-thirds of the voting representatives and representation of the lesser of four (4) members or 50% of the total members represented on that body. The Governing Board, TSC, Marketing Committee or EU-TAB may continue to meet if quorum is not met, provided that advance notice of the meeting has been given in compliance with notification rules defined by the Governing Board, but shall be prevented from making any decisions at the meeting.
 
 3. Except as provided in Section 13.d. and 14.a., decisions by vote at a meeting shall require a majority vote, provided quorum is met. Except as provided in Section 13.d. and 14.a., decisions by electronic vote without a meeting shall require a majority of all voting representatives.
 
@@ -203,9 +222,11 @@ The Governing Board shall adopt a specific Project code of conduct, with approva
 
 3. All documentation will be contributed to and made available by OOP under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/).
 
-4. If an alternative inbound or outbound license is required for compliance with the license for a leveraged open source project or is otherwise required to achieve OOP’s mission, the Governing Board may approve the use of an alternative license for specific inbound or outbound contributions on an exception basis. Any exceptions must be approved by a two-thirds vote of the entire Governing Board and the LF and must be limited in scope to what is required for such purpose. Please email legal@[Open-O].org to obtain exception approval.
+4. If an alternative inbound or outbound license is required for compliance with the license for a leveraged open source project or is otherwise required to achieve OOP’s mission, the Governing Board may approve the use of an alternative license for specific inbound or outbound contributions on an exception basis. Any exceptions must be approved by a two-thirds vote of the entire Governing Board and the LF and must be limited in scope to what is required for such purpose.
 
 5. Subject to available Project funds, OOP may engage The Linux Foundation to determine the availability of, and register, trademarks, service marks, and certification marks, which shall be owned by the LF.
+
+6. This policy may by changed by an affirmative vote of the Governing Board, except that any changes may not be applied retroactively, and all contributions to OOP will be subject to the intellectual property provisions in place at the time the contribution was made unless the contributor explicitly accepts the new intellectual property provisions.
 
 ## 14. Amendments
 
