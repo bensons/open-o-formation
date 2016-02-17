@@ -1,7 +1,11 @@
 <style type="text/css">
     .ol { list-style-type: lower-alpha; }
     .ol ol { list-style-type: lower-roman; }
+	.markdown-body ol { list-style-type: lower-alpha; }
+	.markdown-body ol ol { list-style-type: lower-alpha; }
+	.markdown-body ul ol { list-style-type: lower-alpha; }
 </style>
+
 
 __**Exhibit B**__
  
@@ -33,9 +37,9 @@ The mission of OOP is to:
 
 5. Premier Members, General Members and Associate Members shall be entitled to:
 
-..1. participate in Project general meetings, initiatives, events and any other activities; and
+  1. participate in Project general meetings, initiatives, events and any other activities; and
 
-..2. identify themselves as members of, or participants in, OOP.
+  2. identify themselves as members of, or participants in, OOP.
 
 # 3. Governing Board
 
