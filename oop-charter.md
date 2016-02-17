@@ -1,6 +1,11 @@
 <style>
     ol { list-style-type: lower-alpha; }
     ol ol { list-style-type: lower-roman; }
+    blockquote {
+        padding: 0 15px;
+        color: #777;
+        border-left: 4px solid #ddd;
+    }
 </style>
 
 # Exhibit B
