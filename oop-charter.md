@@ -1,7 +1,7 @@
 <div style="
     .ol { list-style-type: lower-alpha; }
     .ol ol { list-style-type: lower-roman; }
-" >
+" />
 
 __**Exhibit B**__
  
@@ -210,5 +210,3 @@ The Governing Board shall adopt a specific Project code of conduct, with approva
 ## 14. Amendments
 
 This charter may be amended by a two-thirds vote of the entire Governing Board, subject to approval by The Linux Foundation.
-
-</div>
