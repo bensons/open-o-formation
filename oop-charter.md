@@ -1,7 +1,7 @@
-<div style="
-    .ol { list-style-type: lower-alpha; }
-    .ol ol { list-style-type: lower-roman; }
-" />
+<style>
+    ol { list-style-type: lower-alpha; }
+    ol ol { list-style-type: lower-roman; }
+</style>
 
 __**Exhibit B**__
  
