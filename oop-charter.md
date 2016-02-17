@@ -29,103 +29,103 @@ d.     General Members shall be entitled to annually elect one representative to
 
 e.     Premier Members, General Members and Associate Members shall be entitled to:
 
-                                               i.     participate in Project general meetings, initiatives, events and any other activities; and
+    i.     participate in Project general meetings, initiatives, events and any other activities; and
 
-                                             ii.     identify themselves as members of, or participants in, OOP.
+    ii.     identify themselves as members of, or participants in, OOP.
 
 # 3. Governing Board
 
 a.     Composition – the Governing Board voting members shall consist of:
 
-                                               i.     Up to sixteen (16) representatives appointed or elected by Premier Members per section 2.c.;
+    i.     Up to sixteen (16) representatives appointed or elected by Premier Members per section 2.c.;
 
-                                             ii.     Up to four (4) elected General Member representatives per Section 2.d.;
+    ii.     Up to four (4) elected General Member representatives per Section 2.d.;
 
-                                            iii.     one representative elected by the End User Technical Advisory Board, as defined in Section 6 below; and
+    iii.     one representative elected by the End User Technical Advisory Board, as defined in Section 6 below; and
 
-                                            iv.     the Chair elected by the TSC, as defined in Section 4 below.
+    iv.     the Chair elected by the TSC, as defined in Section 4 below.
 
 b.     Conduct of Meetings
 
-                                               i.     Governing Board meetings shall be limited to the Governing Board representatives and follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
+    i.     Governing Board meetings shall be limited to the Governing Board representatives and follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
 
-                                             ii.     The Governing Board meetings shall be confidential unless approved by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board). The Governing Board should encourage transparency, including the public publication of public minutes within a reasonable time following their approval by the Governing Board.
+    ii.     The Governing Board meetings shall be confidential unless approved by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board). The Governing Board should encourage transparency, including the public publication of public minutes within a reasonable time following their approval by the Governing Board.
 
  
 c.     Responsibilities – the Governing Board shall be responsible for:
 
-                                               i.     approving a budget directing the use of funds raised by OOP from all sources of revenue;
+    i.     approving a budget directing the use of funds raised by OOP from all sources of revenue;
 
-                                             ii.     electing a Chair of OOP to preside over Governing Board meetings, authorize expenditures approved by the budget and manage any day-to-day operations;
+    ii.     electing a Chair of OOP to preside over Governing Board meetings, authorize expenditures approved by the budget and manage any day-to-day operations;
 
-                                            iii.     overseeing all Project business and marketing matters;
+    iii.     overseeing all Project business and marketing matters;
 
-                                            iv.     adopt and maintain policies or rules and procedures for OOP (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any compliance or certification policies;
+    iv.     adopt and maintain policies or rules and procedures for OOP (subject to LF approval) including but not limited to a Code of Conduct, a trademark policy and any compliance or certification policies;
 
-                                             v.     working with the TSC on defining and administering any programs for certification, including any Project certification or processes for OOP;
+    v.     working with the TSC on defining and administering any programs for certification, including any Project certification or processes for OOP;
 
-                                            vi.     coordinating with the EU-TAB (as defined in Section 6 below) to enable End User adoption, inclusion in technical community conversations and overall participation in OOP;
+    vi.     coordinating with the EU-TAB (as defined in Section 6 below) to enable End User adoption, inclusion in technical community conversations and overall participation in OOP;
 
-                                          vii.     approving procedures for the nomination and election of (1) General Member representatives to the Governing Board, and (2) any officer or other positions created by the Governing Board.
+    vii.     approving procedures for the nomination and election of (1) General Member representatives to the Governing Board, and (2) any officer or other positions created by the Governing Board.
 
-                                         viii.     voting on all decisions or matters coming before the Governing Board.
+    viii.     voting on all decisions or matters coming before the Governing Board.
 
 # 4. Technical Steering Committee (“TSC”)
 
 a.     Composition
 
-                                               i.     Startup Period: During the first six (6) months after project launch, the TSC voting members shall consist of one (1) appointed representative from each Premier Member and each Top Level Project Maintainer, provided that no company (including related companies or affiliates under common control) shall have more than three (3) votes on the TSC.
+    i.     Startup Period: During the first six (6) months after project launch, the TSC voting members shall consist of one (1) appointed representative from each Premier Member and each Top Level Project Maintainer, provided that no company (including related companies or affiliates under common control) shall have more than three (3) votes on the TSC.
 
-                                             ii.     Steady State: After the Startup Period, there shall be a nomination and election period for electing Contributors or Maintainers to the TSC. The TSC voting members shall consist of eleven (11) elected Contributors or Maintainers chosen by the Active Contributors. In the event that there are fewer than eleven (11) Active Contributors in total then the TSC shall consist of all Active Contributors. An Active Contributor is defined as any Contributor who has had a contribution accepted into the codebase during the prior twelve (12) months. The TSC shall approve the process and timing for nominations and elections held on an annual basis.
+    ii.     Steady State: After the Startup Period, there shall be a nomination and election period for electing Contributors or Maintainers to the TSC. The TSC voting members shall consist of eleven (11) elected Contributors or Maintainers chosen by the Active Contributors. In the event that there are fewer than eleven (11) Active Contributors in total then the TSC shall consist of all Active Contributors. An Active Contributor is defined as any Contributor who has had a contribution accepted into the codebase during the prior twelve (12) months. The TSC shall approve the process and timing for nominations and elections held on an annual basis.
 
  
 b.     TSC projects generally will involve Maintainers and Contributors:
 
-                                               i.     Contributors: anyone in the technical community that contributes code, documentation or other technical artifacts to the OOP codebase.
+    i.     Contributors: anyone in the technical community that contributes code, documentation or other technical artifacts to the OOP codebase.
 
-                                             ii.     Maintainers: Contributors who have the ability to commit code and contributions to a project’s main branch on an OOP project. A Contributor may become a Maintainer by a majority approval of the existing Maintainers.
+    ii.     Maintainers: Contributors who have the ability to commit code and contributions to a project’s main branch on an OOP project. A Contributor may become a Maintainer by a majority approval of the existing Maintainers.
 
 c.     Participation in OOP through becoming a Contributor and/or Maintainer is open to anyone. The TSC may:
 
-                                               i.     establish work flows and procedures for the submission, approval and closure or archiving of projects,
+    i.     establish work flows and procedures for the submission, approval and closure or archiving of projects,
 
-                                             ii.     establish criteria and processes for the promotion of Contributors to Maintainer status, and
+    ii.     establish criteria and processes for the promotion of Contributors to Maintainer status, and
 
-                                            iii.     amend, adjust and refine the roles of Contributors and Maintainers listed in Section 4.b., create new roles and publicly document responsibilities and expectations for such roles, as it sees fit.
+    iii.     amend, adjust and refine the roles of Contributors and Maintainers listed in Section 4.b., create new roles and publicly document responsibilities and expectations for such roles, as it sees fit.
 
 d.     The TSC shall elect a TSC Chair, who will also serve as a voting member of the Governing Board, and is expected to act as a liaison between the Governing Board and technical leadership of OOP.
 
 e.     Responsibilities: The TSC is responsible for:
 
-                                               i.     coordinating the technical direction of OOP;
+    i.     coordinating the technical direction of OOP;
 
-                                             ii.     approving project proposals (including, but not limited to, incubation, deprecation and changes to a project’s charter or scope) in accordance with a project lifecycle document to be developed, approved and maintained by the TSC;
+    ii.     approving project proposals (including, but not limited to, incubation, deprecation and changes to a project’s charter or scope) in accordance with a project lifecycle document to be developed, approved and maintained by the TSC;
 
-                                            iii.     designating Top Level Projects;
+    iii.     designating Top Level Projects;
 
-                                            iv.     creating sub-committees or working groups to focus on cross-project technical issues or opportunities;
+    iv.     creating sub-committees or working groups to focus on cross-project technical issues or opportunities;
 
-                                             v.     coordinate technical community engagement with the End User (as defined in Section 6 below) community and with any End User SIGs (as defined in Section 6 below) with respect to requirements, architecture, implementation, use cases, etc.;
+    v.     coordinate technical community engagement with the End User (as defined in Section 6 below) community and with any End User SIGs (as defined in Section 6 below) with respect to requirements, architecture, implementation, use cases, etc.;
 
-                                            vi.     communicating with external and industry organizations concerning Project technical matters;
+    vi.     communicating with external and industry organizations concerning Project technical matters;
 
-                                          vii.     appointing representatives to work with other open source or standards communities;
+    vii.     appointing representatives to work with other open source or standards communities;
 
-                                         viii.     establishing community norms, workflows or policies for releases;
+    viii.     establishing community norms, workflows or policies for releases;
 
-                                            ix.     discussing, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
+    ix.     discussing, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
 
-                                             x.     establishing election processes for Maintainers or other leadership roles in the technical community that are not within the scope of any single project.
+    x.     establishing election processes for Maintainers or other leadership roles in the technical community that are not within the scope of any single project.
 
 # 5. Marketing Committee
 
 a.     Composition: the Marketing Committee shall consist of:
 
-                                               i.     one appointed voting representative from each Premier Member;
+    i.     one appointed voting representative from each Premier Member;
 
-                                             ii.     non-voting representative(s) appointed by members of any other class of membership; and
+    ii.     non-voting representative(s) appointed by members of any other class of membership; and
 
-                                            iii.     non-voting representative(s) appointed by the TSC.
+    iii.     non-voting representative(s) appointed by the TSC.
 
 b.     Responsibilities: The Marketing Committee shall be responsible for designing, developing and executing marketing efforts on behalf of the Governing Board. The Marketing Committee is expected to coordinate closely with the Governing Board, End User and technical communities to maximize the outreach and visibility of OOP throughout the industry.
 
