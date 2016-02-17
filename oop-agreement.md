@@ -1,3 +1,8 @@
+<style>
+    table { width: 80%; border-collapse: collapse; }
+    td { border: 1px solid black; border-collapse: collapse; }
+</style>
+
 
 **THE LINUX FOUNDATION**
 
@@ -25,17 +30,17 @@ Please check off your desired Membership class.
 
 | Select | Membership Class | Annual Membership Fees |
 | ------------- | ------------- | ------------- |
-| _ | Premier Member \[1\] | $80,000 |
+| _ | Premier Member [1] | $80,000 |
 | _ | General Member | See Fee Scale |
 | _ | Associate (pre-approved non-profits and open source projects) | $0 |
 
-\[1\] Premier membership requires an initial two (2) year membership commitment. One year’s fees are due on acceptance as a member, and the second year’s fees are due at the first anniversary of membership. The second year’s fees during the initial two year membership commitment are equal to the first year’s fee, and are not subject to any membership fee increases that may otherwise be in effect. At the end of the second year of membership, unless the applicant delivers written notice of non-renewal to the LF at least 30 days in advance, a pro-rated amount of the applicable fees for the remainder of that calendar year will be invoiced (and membership will proceed on a calendar-year based renewal cycle thereafter).
+[1] Premier membership requires an initial two (2) year membership commitment. One year’s fees are due on acceptance as a member, and the second year’s fees are due at the first anniversary of membership. The second year’s fees during the initial two year membership commitment are equal to the first year’s fee, and are not subject to any membership fee increases that may otherwise be in effect. At the end of the second year of membership, unless the applicant delivers written notice of non-renewal to the LF at least 30 days in advance, a pro-rated amount of the applicable fees for the remainder of that calendar year will be invoiced (and membership will proceed on a calendar-year based renewal cycle thereafter).
  
 **General Membership Fee Scale:**
  
 In calculating the appropriate fee for General membership, please indicate your current consolidated employee headcount here __________________.
  
-| Select | Consolidated Employees \[1\] | General Fees \[2\] |
+| Select | Consolidated Employees [2] | General Fees [3] |
 | ------------- | ------------- | ------------- |
 | _ | 5,000 and above | $20,000 |
 | _ | Between 2,000 and 4,999 | $15,000 |
@@ -43,7 +48,7 @@ In calculating the appropriate fee for General membership, please indicate your 
 | _ | Between 50 and 499 | $5,000 |
 | _ | Less than 50 | $1,000 |
 
-\[1\] Consolidated employees include all employees of the related companies, including any direct and indirect parent companies, and all sister and subsidiary entities. Employees do not include third party contractors.
+[2] Consolidated employees include all employees of the related companies, including any direct and indirect parent companies, and all sister and subsidiary entities. Employees do not include third party contractors.
  
-\[2\] For General Members, at the first anniversary of membership, unless the applicant delivers written notice of non-renewal to the LF at least 30 days in advance, a pro-rated amount of fees for the remainder of that calendar year will be assessed (and membership will proceed on a calendar-year based renewal cycle thereafter).
+[3] For General Members, at the first anniversary of membership, unless the applicant delivers written notice of non-renewal to the LF at least 30 days in advance, a pro-rated amount of fees for the remainder of that calendar year will be assessed (and membership will proceed on a calendar-year based renewal cycle thereafter).
  
