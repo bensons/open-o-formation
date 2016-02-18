@@ -14,4 +14,7 @@
 - Number of FTE commitments.
 - Whether to have Board officers.
 - Limit TSC Chair to Premier Members.
-
+- Board ability to define Scope.
+- Openness and transparency of Board meetings.
+- Definition and purpose of Top Level Projects.
+- Definition of PTLs.
