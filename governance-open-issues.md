@@ -2,7 +2,7 @@
 ### Open Issues on Governance
 
 - The size and composition of the Governing Board.
-	- 16, 10, 8, ..?
+	- 16, 10, 8, ..? 16
 - Vote limitations per Member.
 - The role of the EU-TAB.
 - Updates to the Intellectual Property policy.
