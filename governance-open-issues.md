@@ -30,7 +30,7 @@
 
 #### \[Top Level Projects\]
 - Definition and purpose of Top Level Projects.
-	- Concensus to defer this discussion and NOT include in the Charter
+	- Consensus to defer this discussion and NOT include in the Charter
 
 #### \[IPR Policy\]
 - Updates to the Intellectual Property policy.
