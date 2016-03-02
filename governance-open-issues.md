@@ -14,8 +14,9 @@
 #### \[TSC\]
 - Transition of the TSC to a steady state.
 	- How long before the transition should happen?
-		- Consensus to tie this to a certain number of releases.  Still need to agree on the number (e.g. proposals for 2-3 releases)
+		- Consensus to Set an expectation (but not a hard requirement) in the charter for when the transition will happen - e.g. 2 releases - but leave the details to be sorted out by the start-up TSC. The transition plan should be approved by the Board, so that appropriate oversight is in place.
 	- Does the transition require Board approval?
+		- Yes, see the bullet above.  	
 - Limit TSC Chair to Premier Members?
 - Definition of PTLs.
 	- Consensus to delegate this discussion to the TSC
