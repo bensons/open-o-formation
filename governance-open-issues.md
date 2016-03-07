@@ -35,7 +35,7 @@
 
 #### \[IPR Policy\]
 - Updates to the Intellectual Property policy.
-	- Is this still an issue (e.g. with the assignment of copyright)?
+	- There is a consensus on this (LF approval is to ensure there's no violation of LF's non-profit status & open source mission)
 
 #### \[Purpose\]
 - Descriptive language of the Purpose.
