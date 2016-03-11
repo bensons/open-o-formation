@@ -10,6 +10,7 @@
 - Board's ability to define Scope.
 - Vote limitations per Member.
 - Openness and transparency of Board meetings.
+	- Consensus to defer this discussion to the Board
 
 #### \[TSC\]
 - Transition of the TSC to a steady state.
