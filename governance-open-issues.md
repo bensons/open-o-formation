@@ -6,7 +6,7 @@
 	- Maximum cap of 16 for the entire Board (across all member classes plus TSC Chair, etc.) 
 	- When the maximum cap is reached, the board can agree to create an executive committee (composition & powers of the executive committee TBD)
 - Whether to have Board officers.
-	- Consensus to have: Chair, President, Treasurer, and  Secretary. 
+	- Consensus to have: Chair, Treasurer, and  Secretary. 
 - Board's ability to define Scope.
 - Vote limitations per Member.
 - Openness and transparency of Board meetings.
@@ -18,13 +18,16 @@
 	- Does the transition require Board approval?
 		- Yes, see the bullet above.  	
 - Limit TSC Chair to Premier Members?
+	- Consensus NOT to limit the TSC Chair to Premier members.  
 - Definition of PTLs.
 	- Consensus to delegate this discussion to the TSC
  
 
 #### \[Fee Structure\]
-- Service Provider membership discounts.
-- Number of FTE commitments.
+- Service Provider membership discounts
+	- Consensus on having the same fee straucture for service providers
+- Number of FTE commitments
+	- Consensus not to specify FTE commitments in the membership agreement
 
 #### \[EU-TAB\]
 - The role of the EU-TAB.
