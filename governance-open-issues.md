@@ -27,7 +27,7 @@
 
 #### \[Fee Structure\]
 - Service Provider membership discounts
-	- Consensus on having the same fee straucture for service providers
+	- Consensus on having the same fee structure for service providers
 - Number of FTE commitments
 	- Consensus not to specify FTE commitments in the membership agreement
 
