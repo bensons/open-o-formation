@@ -9,6 +9,7 @@
 	- Consensus to have: Chair, Treasurer, and  Secretary. 
 - Board's ability to define Scope.
 - Vote limitations per Member.
+	- Consensus on maximum of 2 votes/member 
 - Openness and transparency of Board meetings.
 	- Consensus to defer this discussion to the Board
 
@@ -31,7 +32,8 @@
 	- Consensus not to specify FTE commitments in the membership agreement
 
 #### \[EU-TAB\]
-- The role of the EU-TAB.
+- EU-TAB representation on the Governing Board
+	- Governing Board to decide on this at a later date.   
 
 #### \[Top Level Projects\]
 - Definition and purpose of Top Level Projects.
